@@ -1,5 +1,5 @@
 
-![dev](developer.png)
+![dev](developer.png) 
 
 # MAT381E: Introduction to Data Science
 
