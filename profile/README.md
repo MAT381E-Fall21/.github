@@ -28,7 +28,6 @@ This course could not be possible without [ITU-Zoom](https://itu-edu-tr.zoom.us/
 ## Data related links
 
 * [Türkiye İstatistik Kurumu, İstatistik ve Coğrafi veri portalı](https://cip.tuik.gov.tr/)
-  * A data set similar to used in Homework I: https://data.tuik.gov.tr/Bulten/Index?p=Sera-Gazi-Emisyon-Istatistikleri-1990-2019-37196&dil=1
 * [İBB Açık veri](https://data.ibb.gov.tr/)
    * [Tiyatro](https://data.ibb.gov.tr/dataset/sehir-tiyatrolari-veri-seti/resource/79465ce9-8755-4b57-8e6c-def0c0caadc8)
 * [İzmir Belediyesi Açık veri](https://acikveri.bizizmir.com/)
