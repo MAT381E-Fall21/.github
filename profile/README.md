@@ -21,7 +21,7 @@ The main topics which we cover are:
 The course syllabus is available at https://gulinan.github.io/mat381e/. 
 
 
-This course could not be possible without [ITU-Zoom](https://itu-edu-tr.zoom.us/), [ITU-Ninova](https://ninova.itu.edu.tr/tr/), [RStudio](https://www.rstudio.com/) along with all open-source packages, [GitHub](https://github.com/), [GitHub Classroom](https://classroom.github.com/) and support of [Data Camp](https://www.datacamp.com/).
+This course could not be possible without [ITU-Zoom](https://itu-edu-tr.zoom.us/), [ITU-Ninova](https://ninova.itu.edu.tr/tr/), [RStudio](https://www.rstudio.com/) along with all open-source packages, [GitHub](https://github.com/), and [GitHub Classroom](https://classroom.github.com/).
 
 # Some useful links
 
