@@ -1,4 +1,6 @@
 
+![dev](developer.png)
+
 # MAT381E: Introduction to Data Science
 
 This is the `GitHub` organization of **MAT381E: Introduction to Data Science** at Department of Mathematics, Istanbul Technical University. 
