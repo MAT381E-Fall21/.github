@@ -20,7 +20,7 @@ The main topics which we cover are:
  
 The course syllabus is available at https://gulinan.github.io/mat381e/. 
 
-**Project Team Information**:
+# Project Team Information
 
 | Name          | Surname      | GitHub User Name  | Team Name     | Project Title                                                                |
 | ------------- | ------------ | ----------------- | ------------- | ---------------------------------------------------------------------------- |
