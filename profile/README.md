@@ -23,7 +23,7 @@ The course syllabus is available at https://gulinan.github.io/mat381e/.
 This course could not be possible without [ITU-Zoom](https://itu-edu-tr.zoom.us/), [ITU-Ninova](https://ninova.itu.edu.tr/tr/), [RStudio](https://www.rstudio.com/) along with all open-source packages, [GitHub](https://github.com/), and [GitHub Classroom](https://classroom.github.com/).
 
 **Cautionary Note 1: If you are educator and my course syllabus and materials motivate you adapt a similar style for your course, please let me
-know it via inan@itu.edu.tr**
+know it via inan@itu.edu.tr.**
 
 **Cautionary Note 2: Any piece of document/code/example here cannot be used for commercial use. Violations will be treated as needed.**  
 
